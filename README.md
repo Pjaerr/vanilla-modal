@@ -33,6 +33,8 @@ To open or close the modal, call the function 'toggleModal()'.
 
 Hopefully this is useful to someone, it doesn't depend on any libraries and so I thought I should share it as it is easy to add to a web page. If you wish to change the code and make it better, by all means create a pull request.
 
-![Modal With Content](https://user-images.githubusercontent.com/11336751/29475741-0205a96a-8459-11e7-85c2-b8a6fa0517d6.PNG)
+![Modal Without Content](https://user-images.githubusercontent.com/11336751/29475786-2e37be42-8459-11e7-942d-7d71c806d140.PNG "Modal Without Content")
+
+![Modal With Content](https://user-images.githubusercontent.com/11336751/29475741-0205a96a-8459-11e7-85c2-b8a6fa0517d6.PNG "Modal With Content")
 
 
