@@ -22,4 +22,6 @@ The modal will be centered via "margin: 0 auto;" but this can be changed in the 
     </div>
     <div class="modal-content">
     </div>
-</div>````
+</div>```
+
+Hopefully this is useful to someone, it doesn't depend on any libraries and so I thought I should share it as it is easy to add to a web page. If you wish to change the code and make it better, by all means create a pull request.
