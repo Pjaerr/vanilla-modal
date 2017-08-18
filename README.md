@@ -32,3 +32,8 @@ The modal will be centered via "margin: 0 auto;" but this can be changed in the 
 To open or close the modal, call the function 'toggleModal()'.
 
 Hopefully this is useful to someone, it doesn't depend on any libraries and so I thought I should share it as it is easy to add to a web page. If you wish to change the code and make it better, by all means create a pull request.
+
+![Modal With Content](http://imgur.com/7z5JbhZ)
+
+![Modal Without Content](http://imgur.com/UtO8N92)
+
