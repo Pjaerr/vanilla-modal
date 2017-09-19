@@ -1,5 +1,5 @@
 # vanilla-modal
-A material design-esque modal that uses no libraries, only HTML, CSS and JS.
+A material design-esque modal that uses no libraries, only HTML, CSS and JS. Other things on the modal such as buttons and text fields won't fit material design**.
 
 Include ```modal.css``` at the top of your html file, and ```modal.js``` at the bottom of your html file.
 
